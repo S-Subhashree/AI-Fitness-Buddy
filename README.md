@@ -60,10 +60,6 @@ Start a conversation: Ask fitness questions, request meal ideas, or motivation.
 
 <img width="890" height="671" alt="image" src="https://github.com/user-attachments/assets/89cf91b6-a154-4b91-a48d-3586c52ee409" />
 
-# 🔹 Deployment & Preview...
-
-<img width="1919" height="907" alt="Screenshot 2025-07-30 213554" src="https://github.com/user-attachments/assets/10b6ee95-e898-486c-8b78-899999c2019e" />
-
 # 🔹 API References after Deployment..
 
 <img width="1919" height="762" alt="image" src="https://github.com/user-attachments/assets/dacb7cf8-3dfa-4b48-9b91-089da887120b" />
